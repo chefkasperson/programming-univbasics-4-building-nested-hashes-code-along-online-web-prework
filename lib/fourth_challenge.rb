@@ -39,4 +39,6 @@ def fourth_challenge
 end
 
 first = epic_tragedy[:montague][:hero][:status] = "dead"
-epic_tragedy[:capulet][:heroine][:status] = "dead"
+second = epic_tragedy[:capulet][:heroine][:status] = "dead"
+first
+second
